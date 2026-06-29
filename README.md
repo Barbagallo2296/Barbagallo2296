@@ -47,9 +47,6 @@ Ora frequento l'**ITS Prodigi di Pisa** per diventare Full Stack Developer, in u
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Reti & Sicurezza
-![Cisco](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
@@ -70,9 +67,9 @@ Ora frequento l'**ITS Prodigi di Pisa** per diventare Full Stack Developer, in u
 
 | Progetto | Stack | Descrizione |
 |----------|-------|-------------|
-| 🏆 **LeagueMate** | Java · Spring Boot · MySQL · JWT | Piattaforma per la gestione di tornei di calcio amatoriali (round-robin). Architettura MVC a tre livelli, autenticazione JWT, JUnit 5. |
-| 📝 **Laravel TodoList API** | Laravel · Sanctum · MySQL · JS | REST API con autenticazione Sanctum, isolamento dati per utente, RBAC admin/user e frontend vanilla JS. |
-| ✅ **Todo List App** | Node.js · Express · SQLite | Prima applicazione backend completa, con routing RESTful e persistenza su SQLite. |
+| 🏆 [**LeagueMate**](https://github.com/Barbagallo2296/LeagueMate-API) | Java · Spring Boot · MySQL · JWT | Piattaforma per la gestione di tornei di calcio amatoriali (round-robin). Architettura MVC a tre livelli, autenticazione JWT, JUnit 5. |
+| 📝 [**Laravel TodoList API**](https://github.com/Barbagallo2296/laravel-todolist-api) | Laravel · Sanctum · MySQL · JS | REST API con autenticazione Sanctum, isolamento dati per utente, RBAC admin/user e frontend vanilla JS. |
+| ✅ [**Todo List App**](https://github.com/Barbagallo2296/todo-list-app) | Node.js · Express · SQLite | Prima applicazione backend completa, con routing RESTful e persistenza su SQLite. |
 
 ---
 
@@ -97,6 +94,8 @@ Ora frequento l'**ITS Prodigi di Pisa** per diventare Full Stack Developer, in u
 
 📍 **Aulla (MS), Toscana, Italia**
 
+📧 [manuel.barbagallo22@gmail.com](mailto:manuel.barbagallo22@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/Scrivimi%20su%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-barbagallo/)
 
 </div>
@@ -104,5 +103,5 @@ Ora frequento l'**ITS Prodigi di Pisa** per diventare Full Stack Developer, in u
 ---
 
 <div align="center">
-<sub>Profilo aggiornato a giugno 2025 · Costruito con metodo, non con fretta.</sub>
+<sub>Profilo aggiornato a giugno 2026 · Costruito con metodo, non con fretta.</sub>
 </div>
