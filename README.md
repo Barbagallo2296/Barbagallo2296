@@ -1,107 +1,86 @@
 <div align="center">
 
 # Ciao, sono Manuel Barbagallo 👋
-
 ### Full Stack Developer in formazione · ITS Prodigi, Pisa
 
-*Dalla precisione dell'ingegneria elettrica alla solidità del codice backend — costruisco con metodo.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20Barbagallo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-barbagallo/)
-[![GitHub](https://img.shields.io/badge/GitHub-Barbagallo2296-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Barbagallo2296)
+Sviluppo software con focus sulla solidità del codice backend e sull'efficacia dell'architettura.
 
 </div>
 
 ---
 
-## 👤 Chi sono
+### 👤 Chi sono
+Dopo aver maturato esperienze in ambiti tecnici e aver conseguito il diploma in Elettrotecnica (95/100), ho deciso di assecondare la mia reale passione per l'informatica ottenendo diverse certificazioni del settore. 
 
-Per anni ho lavorato in ambiti che non sentivo miei, tenendo da parte la mia passione per l'informatica. Quindi ho deciso di rimettermi in gioco: ho preso il diploma in **Elettrotecnica (95/100)** e, mentre lavoravo, ho ottenuto le certificazioni **ICDL, IT Essentials e Cisco CCNA**.
+Attualmente frequento il corso biennale presso l'**ITS Prodigi di Pisa** per diventare Full Stack Developer: un percorso intensivo da **2.000 ore** che copre a 360° lo sviluppo software (Frontend, Backend, Cloud, Mobile e Cybersecurity).
 
-Ora frequento l'**ITS Prodigi di Pisa** per diventare Full Stack Developer, in un percorso da **2.000 ore** che copre frontend, backend, cloud, mobile e cybersecurity.
-
-> Sto cercando uno stage o una posizione junior dove portare concretezza, crescere velocemente e contribuire a un team reale.
+Sto cercando uno stage o una posizione junior in cui inserirti all'interno di un team di sviluppo reale, mettere alla prova le mie competenze e continuare a crescere velocemente.
 
 ---
 
-## 🛠️ Stack Tecnologico
+### 🛠️ Stack Tecnologico
 
-### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+#### 🎨 Front-End
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Back-End & Database
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+#### ⚙️ Back-End & Database
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Strumenti & Ambienti
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### 🧰 Strumenti & Ambienti
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Barbagallo2296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbagallo2296&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Barbagallo2296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Statistiche GitHub di Manuel" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbagallo2296&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguaggi più usati" />
+</p>
 
 ---
 
-## 🗂️ Progetti in Evidenza
+### 🗂️ Progetti in Evidenza
 
-> I repository pinnati mostrano i progetti più rappresentativi del mio percorso. Ogni progetto include README dettagliato, script SQL, Postman collection e configurazione Docker.
+I repository in evidenza (Pinned) mostrano i progetti software più significativi realizzati durante il mio percorso di studi. Ognuno è corredato da documentazione per l'architettura o l'utilizzo.
 
 | Progetto | Stack | Descrizione |
-|----------|-------|-------------|
-| 🏆 [**LeagueMate**](https://github.com/Barbagallo2296/LeagueMate-API) | Java · Spring Boot · MySQL · JWT | Piattaforma per la gestione di tornei di calcio amatoriali (round-robin). Architettura MVC a tre livelli, autenticazione JWT, JUnit 5. |
-| 📝 [**Laravel TodoList API**](https://github.com/Barbagallo2296/laravel-todolist-api) | Laravel · Sanctum · MySQL · JS | REST API con autenticazione Sanctum, isolamento dati per utente, RBAC admin/user e frontend vanilla JS. |
-| ✅ [**Todo List App**](https://github.com/Barbagallo2296/todo-list-app) | Node.js · Express · SQLite | Prima applicazione backend completa, con routing RESTful e persistenza su SQLite. |
+| :--- | :--- | :--- |
+| **🏆 LeagueMate** | Java · Spring Boot · MySQL · JWT | Piattaforma per la gestione di tornei di calcio amatoriali (round-robin). Sviluppata con architettura MVC a tre livelli, autenticazione JWT e test di unità con JUnit 5. |
+| **📝 Laravel TodoList API** | Laravel · Sanctum · MySQL · JS | REST API con autenticazione Sanctum, isolamento dei dati per singolo utente, gestione dei ruoli (admin/user) e integrazione con un frontend vanilla JS. |
+| **✅ Todo List App** | Node.js · Express · SQLite | Prima applicazione backend completa incentrata sulla logica di routing RESTful e persistenza dei dati. |
 
 ---
 
-## 🎓 Formazione & Certificazioni
+### 🎓 Formazione & Certificazioni
 
-```
-📚 ITS Prodigi — Tecnico Superiore per lo Sviluppo Software     2025 – 2027
-   Pisa · Percorso intensivo 2.000 ore · Full Stack Development
-
-🎓 Diploma in Elettrotecnica                                     Votazione 95/100
-
-🏅 Cisco CCNA — Introduction to Networks
-🏅 Cisco IT Essentials
-🏅 ICDL Full Standard
-```
+* **📚 ITS Prodigi — Tecnico Superiore per lo Sviluppo Software** *(2025 – 2027)*
+  * Pisa · Percorso intensivo di 2.000 ore · Full Stack Development
+* **🎓 Diploma di Istruzione Secondaria Superiore in Elettrotecnica** *(Votazione 95/100)*
+* **🏅 Cisco CCNA** — Introduction to Networks
+* **🏅 Cisco IT Essentials**
+* **🏅 ICDL Full Standard**
 
 ---
 
-## 📬 Contatti
+### 📫 Contatti
 
 <div align="center">
 
-📍 **Aulla (MS), Toscana, Italia**
+📍 Aulla (MS), Toscana, Italia  
+📧 [manuel.barbagallo22@gmail.com](mailto:manuel.barbagallo22@gmail.com)  
+💼 [Profilo LinkedIn](https://www.linkedin.com/in/manuel-barbagallo/)
 
-📧 [manuel.barbagallo22@gmail.com](mailto:manuel.barbagallo22@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/Scrivimi%20su%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-barbagallo/)
-
-</div>
-
----
-
-<div align="center">
-<sub>Profilo aggiornato a giugno 2026 · Costruito con metodo, non con fretta.</sub>
 </div>
